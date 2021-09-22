@@ -7,17 +7,41 @@
 
 <body>
   <% include ../includes/nav.ejs %>
-    <div class="jumbotron text-center">
-      <div class="container">
-        <h1>
-          <%= title %>
-        </h1>
-        <p>This is the placeholder for Team Activity 02</p>
-      </div>
-    </div>
+  <div class="jumbotron text-center">
     <div class="container">
-
+      <h1>
+        <%= title %>
+      </h1>
     </div>
+  </div>
+  <div class="container">
+    <%= message %>
+    <!-- Add User -->
+    <form action="ta02/addUser" method="POST">
+      <label for="username"></label>
+      <input type="text" name="username">
+      <button type="submit">Add User</button>
+    </form>
+
+    <!-- Remove User -->
+    <form action="ta02/removeUser" method="POST">
+      <label for="username"></label>
+      <input type="text" name="username">
+      <button type="submit">Remove User</button>
+    </form>
+
+    <!-- DISPLAY ARRAY OF USERS -->
+    <ul>
+      <% users.forEach(function(user) { %>
+         <li> <%= user %> </li>
+      <% }); %> 
+     </ul>
+  
+      
+    </ul>
+    
+
+  </div>
 
 
 </body>
