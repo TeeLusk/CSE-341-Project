@@ -1,13 +1,13 @@
 const express = require('express');
 const router = express.Router();
 
-let books = ["The Way of Kings", "Words of Raidance", "Oathbringer"];
+let books = ["The Way of Kings", "Words of Radiance", "Oathbringer"];
 
 // MAIN PAGE
 router.get('/', (req, res, next) => {
-  res.render('pages/prove02', {
+  res.render('pages/proveAssignments/prove02', {
     title: 'Prove 02',
-    path: '/prove02', // For pug, EJS
+    path: './proveAssignments', // For pug, EJS
     activeTA03: true, // For HBS
     contentCSS: true, // For HBS
     message: "",
@@ -15,9 +15,9 @@ router.get('/', (req, res, next) => {
 });
 
 router.get('/showBooks', (req, res, next) => {
-  res.render('pages/showBooks', {
+  res.render('pages/ProveAssignments/showBooks', {
     title: 'Prove 02',
-    path: '/prove02', // For pug, EJS
+    path: '/proveAssignments', // For pug, EJS
     activeTA03: true, // For HBS
     contentCSS: true, // For HBS
     books: books,
@@ -26,9 +26,9 @@ router.get('/showBooks', (req, res, next) => {
 });
 
 router.get('/addBooks', (req, res, next) => {
-  res.render('pages/addBooks', {
+  res.render('pages/ProveAssignments/addBooks', {
     title: 'Prove 02',
-    path: '/prove02', // For pug, EJS
+    path: '/proveAssignments', // For pug, EJS
     activeTA03: true, // For HBS
     contentCSS: true, // For HBS
     books: books,
@@ -40,9 +40,9 @@ router.get('/addBooks', (req, res, next) => {
 router.post('/addBook', (req, res, next) => {
   let bookExists = books.includes(req.body.title);
   if (bookExists == true) {
-    res.render('pages/showBooks', {
+    res.render('pages/ProveAssignments/showBooks', {
       title: 'Prove02',
-      path: '/prove02', // For pug, EJS
+      path: '/proveAssignments', // For pug, EJS
       activeTA03: true, // For HBS
       contentCSS: true, // For HBS
       books: books,
@@ -50,7 +50,7 @@ router.post('/addBook', (req, res, next) => {
     });
   } else {
     books.push(req.body.title);
-    res.redirect('/prove02/showBooks');
+    res.redirect('./showBooks');
   }
 
 });

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <% include ../../includes/header.ejs %>
+</head>
+
+<body>
+    <% include ../../includes/nav.ejs %>
+    <div class="jumbotron text-center">
+        <div class="container">
+            <h1>
+                <%= title %>
+            </h1>
+        </div>
+    </div>
+    <div class="container">
+        <%= message %>
+        <div class="container">
+            <form action="/prove/prove03/filterItems" method="POST">
+                <label for="searchTerm">
+                    Search For items
+                </label>
+                <input type="text" name="searchTerm">
+                <button type="submit">Search</button>
+            </form>
+            <p><%= searchTerm ? 'Search Term:  ' + searchTerm : '' %></p>
+        </div>
+        <div class="container">
+            <% if (prods.length > 0) { %>
+            <div class="grid">
+                <% for (let product of prods) { %>
+                <article class="card product-item">
+                    <header class="card__header">
+                        <h1 class="product__title"><%= product.name %></h1>
+                    </header>
+                    <div class="card-img">
+                        <img src="<%= product.imageUrl %>"
+                            alt="<%= product.name %>">
+                    </div>
+                    <div class="card__content">
+                        <h2 class="product__price"><%= product.price %></h2>
+                        <p class="product__description"><%= product.description %>
+                        </p>
+                        <h3>Tags</h3>
+                        <ul style="list-style-type: none; padding-left: 0;">
+                            <% product.tags.forEach(function(tag) { %>
+                               <li> <%= tag %> </li>
+                            <% }); %> 
+                           </ul>
+                    </div>
+                    <div class="card__actions">
+                        <button class="btn">Add to Cart</button>
+                        <form action="/prove/prove03/filterById/<%= product.id %>" method="POST">
+                            <button class="btn" type="submit">
+                                View Details
+                            </button>
+                        </form>
+                   </div>
+                </article>
+                <% } %>
+            </div>
+            <% } else { %>
+            <h1>No Products Found!</h1>
+            <% } %>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
