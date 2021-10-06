@@ -2,11 +2,11 @@
 <html>
 
 <head>
-  <% include ../../includes/header.ejs %>
+  <% include ../includes/header.ejs %>
 </head>
 
 <body>
-  <% include ../../includes/nav.ejs %>
+  <% include ../includes/nav.ejs %>
   <div class="jumbotron text-center">
     <div class="container">
       <h1>
@@ -17,7 +17,7 @@
   <div class="container">
     <%= message %>
     <!-- Add User -->
-    <form action="/prove/prove02/addBook" method="POST">
+    <form action="/prove02/addBook" method="POST">
       <label for="title"></label>
       <input type="text" name="title">
       <button type="submit">Add Book</button>

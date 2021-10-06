@@ -1,6 +1,5 @@
 [
   {
-    "id": 2,
     "tags": ["Trees"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/1.jpg",
     "price": 10.99,
@@ -8,7 +7,6 @@
     "description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur"
   },
   {
-    "id": 3,
     "tags": ["Beach", "Ocean", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/2.jpg",
     "price": 19.99,
@@ -16,7 +14,6 @@
     "description": "totam at veritatis eligendi assumenda ex quia praesentium quibusdam ducimus"
   },
   {
-    "id": 4,
     "tags": ["Animal", "Bear"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/3.jpg",
     "price": 17.99,
@@ -24,7 +21,6 @@
     "description": "vitae mollitia et in accusantium est voluptas officiis est non"
   },
   {
-    "id": 5,
     "tags": ["Road"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/4.jpg",
     "price": 15.99,
@@ -32,7 +28,6 @@
     "description": "explicabo fugit magnam fugit dolorem itaque unde quidem est quia ut a veritatis sit facere possimus fugit ipsam"
   },
   {
-    "id": 6,
     "tags": ["Ocean", "Rocks"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/5.jpg",
     "price": 10.99,
@@ -40,7 +35,6 @@
     "description": "facilis aut velit vitae sit dolorum illum nostrum pariatur dolorem vel atque quasi placeat qui"
   },
   {
-    "id": 7,
     "tags": ["Sunset", "Beach", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/6.jpg",
     "price": 9.99,
@@ -48,7 +42,6 @@
     "description": "libero reprehenderit blanditiis quidem laborum ullam quae fuga consequuntur minima praesentium consequatur qui excepturi nostrum tempora sunt deleniti"
   },
   {
-    "id": 8,
     "tags": ["Rust", "Old", "Car"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/7.jpg",
     "price": 19.99,
@@ -56,7 +49,6 @@
     "description": "necessitatibus suscipit iure quia voluptates voluptas quidem ipsum laboriosam adipisci"
   },
   {
-    "id": 9,
     "tags": ["Coffee"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/8.jpg",
     "price": 14.99,
@@ -64,7 +56,6 @@
     "description": "et adipisci explicabo consequatur rerum voluptas dolorem qui omnis vel"
   },
   {
-    "id": 10,
     "tags": ["Trees", "Fog", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/9.jpg",
     "price": 16.99,
@@ -72,7 +63,6 @@
     "description": "ut architecto est similique sit nostrum sit sed ipsa itaque aliquam nesciunt reprehenderit et neque aut id nulla dolore sed sit facere eligendi"
   },
   {
-    "id": 11,
     "tags": ["Sunset", "Ocean", "Dock"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/10.jpg",
     "price": 18.99,
@@ -80,7 +70,6 @@
     "description": "magnam maxime nostrum minima dolores repellat laborum pariatur et quia maiores quidem eos quod est voluptas voluptatem quia ipsum odit dolorem et blanditiis aut voluptates"
   },
   {
-    "id": 12,
     "tags": ["Person", "Hills", "Animals", "Sheep"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/11.jpg",
     "price": 16.99,
@@ -88,7 +77,6 @@
     "description": "sunt id omnis nihil consectetur et porro ut molestias ab et rem quia omnis voluptatem est libero reiciendis voluptatem dolores excepturi"
   },
   {
-    "id": 13,
     "tags": ["Fog", "Lake", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/12.jpg",
     "price": 9.99,
@@ -96,7 +84,6 @@
     "description": "perspiciatis in qui et nemo nisi ad quam consequatur et dignissimos"
   },
   {
-    "id": 14,
     "tags": ["Person", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/13.jpg",
     "price": 14.99,
@@ -104,7 +91,6 @@
     "description": "consectetur voluptas sint excepturi voluptas aut culpa qui excepturi dicta ut voluptas"
   },
   {
-    "id": 15,
     "tags": ["Building", "Metal"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/14.jpg",
     "price": 11.99,
@@ -112,7 +98,6 @@
     "description": "quisquam maxime laudantium error totam unde commodi ullam qui quo sed aperiam"
   },
   {
-    "id": 16,
     "tags": ["Sunset", "Person", "Woman", "Meadow"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/15.jpg",
     "price": 10.99,
@@ -120,7 +105,6 @@
     "description": "qui ipsa hic voluptas et rem sed architecto reiciendis labore saepe fugit ab sed sed quos ut adipisci accusantium molestias"
   },
   {
-    "id": 17,
     "tags": ["Person", "Coffee"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/16.jpg",
     "price": 11.99,
@@ -128,7 +112,6 @@
     "description": "soluta eligendi harum quis molestiae omnis excepturi deserunt sed dolorum dolorum ea non dolor"
   },
   {
-    "id": 18,
     "tags": ["Trees", "Road"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/17.jpg",
     "price": 9.99,
@@ -136,7 +119,6 @@
     "description": "est ad ipsa et ipsum amet nemo cupiditate placeat praesentium qui illum harum"
   },
   {
-    "id": 19,
     "tags": ["Windows", "Architecture", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/18.jpg",
     "price": 17.99,
@@ -144,7 +126,6 @@
     "description": "in cumque suscipit et perspiciatis minima ut et consequatur ab neque rerum hic dolore a aut dignissimos"
   },
   {
-    "id": 20,
     "tags": ["House", "Trees", "Fog", "Secluded"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/19.jpg",
     "price": 20.99,
@@ -152,7 +133,6 @@
     "description": "non et omnis accusantium ut non voluptatem sunt iusto cumque laudantium sunt laboriosam et sequi et totam voluptatem aut vero occaecati quia laudantium"
   },
   {
-    "id": 21,
     "tags": ["Architecture", "Wall"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/20.jpg",
     "price": 14.99,
@@ -160,7 +140,6 @@
     "description": "rerum sit voluptatibus sint voluptatem saepe delectus et quasi perferendis laborum et enim dolores quaerat iusto eos odio nisi"
   },
   {
-    "id": 22,
     "tags": ["Surf", "Ocean", "Waves"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/21.jpg",
     "price": 12.99,
@@ -168,7 +147,6 @@
     "description": "architecto amet doloremque sit ut repudiandae ducimus rerum enim aut veniam autem aut ut ea consectetur est excepturi explicabo aliquid"
   },
   {
-    "id": 23,
     "tags": ["Bike", "City", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/22.jpg",
     "price": 17.99,
@@ -176,7 +154,6 @@
     "description": "sit animi repellendus voluptas vitae consequatur accusantium optio cupiditate et"
   },
   {
-    "id": 24,
     "tags": ["Sky", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/23.jpg",
     "price": 18.99,
@@ -184,7 +161,6 @@
     "description": "non est voluptatem sint nulla dicta iste natus consequatur accusantium dolores dolore in et distinctio dolore similique"
   },
   {
-    "id": 25,
     "tags": ["Rust", "Machine", "Car"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/24.jpg",
     "price": 12.99,
@@ -192,7 +168,6 @@
     "description": "rerum vero cupiditate et est similique soluta ex sit ex esse repellat necessitatibus voluptatum corrupti et nihil quod"
   },
   {
-    "id": 26,
     "tags": ["Animal", "Fur", "Monkey"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/25.jpg",
     "price": 15.99,
@@ -200,7 +175,6 @@
     "description": "rerum consectetur magni sed enim eveniet et dolorem laudantium ut aut qui voluptatem praesentium soluta iste aliquid dolorem quibusdam veniam voluptas quaerat excepturi"
   },
   {
-    "id": 27,
     "tags": ["Machine", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/26.jpg",
     "price": 13.99,
@@ -208,7 +182,6 @@
     "description": "minus nihil ipsum explicabo pariatur adipisci harum quia ab et voluptate odio"
   },
   {
-    "id": 28,
     "tags": ["Planes", "Sun", "Clouds"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/27.jpg",
     "price": 15.99,
@@ -216,7 +189,6 @@
     "description": "maiores esse culpa qui fuga dignissimos officia aliquid perferendis consequatur possimus accusantium"
   },
   {
-    "id": 29,
     "tags": ["Beach", "Television", "Tv"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/28.jpg",
     "price": 11.99,
@@ -224,7 +196,6 @@
     "description": "tenetur perspiciatis necessitatibus eligendi perspiciatis et facilis expedita reiciendis et in corporis nostrum quam molestiae voluptatum soluta consequuntur nemo totam magnam doloremque adipisci architecto"
   },
   {
-    "id": 30,
     "tags": ["Grass", "Meadow", "Plants"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/29.jpg",
     "price": 11.99,
@@ -232,7 +203,6 @@
     "description": "quod voluptas porro animi et praesentium velit aperiam ut officiis ut praesentium perspiciatis quia iste molestias voluptas"
   },
   {
-    "id": 31,
     "tags": ["People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/30.jpg",
     "price": 13.99,
@@ -240,7 +210,6 @@
     "description": "sequi aliquam sapiente quibusdam fugit consequuntur voluptatum sint reprehenderit est mollitia voluptas consequatur similique quibusdam dolorem rerum quis"
   },
   {
-    "id": 32,
     "tags": ["Beach", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/31.jpg",
     "price": 13.99,
@@ -248,7 +217,6 @@
     "description": "dolorum quam nulla assumenda harum expedita est animi possimus a quod repellendus doloribus quae a in praesentium ut voluptatem quae esse consectetur et"
   },
   {
-    "id": 33,
     "tags": ["American", "Sky", "Patriotic", "Flag"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/32.jpg",
     "price": 13.99,
@@ -256,7 +224,6 @@
     "description": "perspiciatis quia animi maxime modi non molestiae ab voluptas modi molestias non et sed repudiandae iste accusamus autem"
   },
   {
-    "id": 34,
     "tags": ["Desk", "Office", "Wood"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/33.jpg",
     "price": 16.99,
@@ -264,7 +231,6 @@
     "description": "et qui sint modi expedita similique consequatur esse quis aliquam est aliquam architecto quidem rerum nihil"
   },
   {
-    "id": 35,
     "tags": ["City", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/34.jpg",
     "price": 10.99,
@@ -272,7 +238,6 @@
     "description": "sint voluptatem accusantium quae facilis ipsum numquam ut possimus eveniet quia autem repudiandae ipsa qui ratione molestiae id voluptatem sit"
   },
   {
-    "id": 36,
     "tags": ["Techs", "Coffee", "Wood"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/35.jpg",
     "price": 9.99,
@@ -280,7 +245,6 @@
     "description": "mollitia nostrum sequi aperiam quia nostrum aliquam expedita sint sit voluptatibus incidunt officia illum est doloribus"
   },
   {
-    "id": 37,
     "tags": ["Tree", "Plant", "Flowers"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/36.jpg",
     "price": 10.99,
@@ -288,7 +252,6 @@
     "description": "ut enim et odit inventore sunt eos culpa incidunt laudantium magnam veniam sequi consequatur quia recusandae unde et incidunt quod et a"
   },
   {
-    "id": 38,
     "tags": ["Metal", "Bridge", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/37.jpg",
     "price": 17.99,
@@ -296,7 +259,6 @@
     "description": "qui minima et quibusdam accusantium facere doloribus culpa rerum eum accusamus nam"
   },
   {
-    "id": 39,
     "tags": ["Nature", "Ocean", "Hillside"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/38.jpg",
     "price": 14.99,
@@ -304,7 +266,6 @@
     "description": "ex corrupti vel esse perferendis non similique at quia voluptatem sit illo ut maiores et magni"
   },
   {
-    "id": 40,
     "tags": ["Person", "Raindrops", "Hand"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/39.jpg",
     "price": 10.99,
@@ -312,7 +273,6 @@
     "description": "necessitatibus voluptas rerum ea ea pariatur aut enim nam voluptas voluptatem maxime dignissimos"
   },
   {
-    "id": 41,
     "tags": ["Snow", "Chair lift", "Ski", "Snowboard", "Mountain"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/40.jpg",
     "price": 17.99,
@@ -320,7 +280,6 @@
     "description": "laboriosam delectus accusamus aut aspernatur optio natus necessitatibus eos voluptas ut excepturi alias qui non et dolor in sint esse reprehenderit veniam consequatur"
   },
   {
-    "id": 42,
     "tags": ["Ocean", "Waves"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/41.jpg",
     "price": 17.99,
@@ -328,7 +287,6 @@
     "description": "aliquam odit iure porro facere ea adipisci laboriosam eligendi qui commodi officiis quia beatae dolorem ducimus aut et"
   },
   {
-    "id": 43,
     "tags": ["Snow", "Person", "Reflection"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/42.jpg",
     "price": 12.99,
@@ -336,7 +294,6 @@
     "description": "inventore ut dolores facilis soluta excepturi necessitatibus saepe et expedita omnis omnis nihil eos dignissimos harum sequi aliquid sed voluptatem illum porro"
   },
   {
-    "id": 44,
     "tags": ["Buildings", "City"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/43.jpg",
     "price": 20.99,
@@ -344,7 +301,6 @@
     "description": "omnis nemo nisi praesentium cumque a est dolore distinctio porro asperiores ut non officia hic aut velit deleniti et nihil"
   },
   {
-    "id": 45,
     "tags": ["Bridge", "City"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/44.jpg",
     "price": 15.99,
@@ -352,7 +308,6 @@
     "description": "molestiae nostrum aliquid odit omnis id perspiciatis iure ut aperiam suscipit dolores"
   },
   {
-    "id": 46,
     "tags": ["Architecture", "Italy", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/45.jpg",
     "price": 19.99,
@@ -360,7 +315,6 @@
     "description": "et dolorum rerum provident nobis ipsam delectus qui et cupiditate est aut et"
   },
   {
-    "id": 47,
     "tags": ["Sky", "Night", "Stars"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/46.jpg",
     "price": 18.99,
@@ -368,7 +322,6 @@
     "description": "fugit facere facilis laborum rerum culpa nulla nesciunt et ex error unde"
   },
   {
-    "id": 48,
     "tags": ["Fog", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/47.jpg",
     "price": 10.99,
@@ -376,7 +329,6 @@
     "description": "doloribus est odio nam magnam sed alias vitae sed non voluptates necessitatibus optio id voluptatem laborum aperiam quia est mollitia repellat accusamus"
   },
   {
-    "id": 49,
     "tags": ["Surf", "Ocean", "Waves"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/48.jpg",
     "price": 19.99,
@@ -384,7 +336,6 @@
     "description": "et blanditiis sit consequatur sit quos vero nesciunt quas possimus deleniti dolor voluptatem laborum"
   },
   {
-    "id": 50,
     "tags": ["Flowers", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/49.jpg",
     "price": 13.99,
@@ -392,7 +343,6 @@
     "description": "sit autem voluptas quo magni exercitationem aliquam adipisci amet earum et voluptate aut modi veritatis totam enim nam provident est"
   },
   {
-    "id": 51,
     "tags": ["Sunset", "Wave", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/50.jpg",
     "price": 9.99,
@@ -400,7 +350,6 @@
     "description": "eveniet animi fugit eligendi nihil quod eum officiis atque ad eum et aliquid odio sunt saepe similique non id esse accusantium in quas eius"
   },
   {
-    "id": 52,
     "tags": ["Snow", "Fog", "Mountains", "Bird"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/51.jpg",
     "price": 16.99,
@@ -408,7 +357,6 @@
     "description": "rerum et eveniet sed ea voluptatem quod minus ea eum labore et quia possimus error et quaerat"
   },
   {
-    "id": 53,
     "tags": ["Snow", "Trees", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/52.jpg",
     "price": 13.99,
@@ -416,7 +364,6 @@
     "description": "eos ipsa consequatur accusantium voluptate iste odit totam voluptates voluptatem mollitia atque et eum tempore rerum vel voluptatem commodi"
   },
   {
-    "id": 54,
     "tags": ["Ocean", "Buildings"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/53.jpg",
     "price": 14.99,
@@ -424,7 +371,6 @@
     "description": "laboriosam ab incidunt excepturi at maxime numquam nihil placeat ipsa sequi accusamus quam et ut rerum"
   },
   {
-    "id": 55,
     "tags": ["Park", "Swings"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/54.jpg",
     "price": 16.99,
@@ -432,7 +378,6 @@
     "description": "animi qui possimus molestiae voluptas architecto eius aut commodi error ea facilis ut"
   },
   {
-    "id": 56,
     "tags": ["Flowers"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/55.jpg",
     "price": 16.99,
@@ -440,7 +385,6 @@
     "description": "consequatur molestiae voluptates quia ut accusantium totam voluptatibus est ut asperiores rerum sed nisi debitis nam facere aperiam itaque"
   },
   {
-    "id": 57,
     "tags": ["Fog", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/56.jpg",
     "price": 14.99,
@@ -448,7 +392,6 @@
     "description": "ut voluptates ut qui recusandae in maiores in magni iure optio omnis incidunt ea ducimus non rem ex quia dolorem in est impedit"
   },
   {
-    "id": 58,
     "tags": ["Animals", "Meadow", "Cows"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/57.jpg",
     "price": 10.99,
@@ -456,7 +399,6 @@
     "description": "voluptatibus corrupti quia quis debitis rerum nihil occaecati iste maxime quas molestiae perspiciatis accusamus deserunt inventore reiciendis error"
   },
   {
-    "id": 59,
     "tags": ["Lights", "Night", "City", "Phonebooth"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/58.jpg",
     "price": 13.99,
@@ -464,7 +406,6 @@
     "description": "repellat sapiente ut atque unde in iure consequatur fuga mollitia ex"
   },
   {
-    "id": 60,
     "tags": ["Snow", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/59.jpg",
     "price": 19.99,
@@ -472,7 +413,6 @@
     "description": "atque deleniti adipisci rerum tempora rerum et totam nisi aspernatur animi nostrum natus sint adipisci id dolorem et et"
   },
   {
-    "id": 61,
     "tags": ["Fog", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/60.jpg",
     "price": 12.99,
@@ -480,7 +420,6 @@
     "description": "quas consequatur voluptatibus amet distinctio debitis et voluptatem cumque dolor quae laudantium illum et"
   },
   {
-    "id": 62,
     "tags": ["Castle"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/61.jpg",
     "price": 12.99,
@@ -488,7 +427,6 @@
     "description": "sunt consequatur nulla ea eaque sunt ipsum ut reiciendis non adipisci ratione et est maxime explicabo necessitatibus possimus natus est numquam nobis vero"
   },
   {
-    "id": 63,
     "tags": ["City", "Architecture", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/62.jpg",
     "price": 20.99,
@@ -496,7 +434,6 @@
     "description": "qui vel in voluptas incidunt nulla ut ad iure eligendi autem facilis ea earum aut beatae"
   },
   {
-    "id": 64,
     "tags": ["Bridge", "Fog", "City"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/63.jpg",
     "price": 12.99,
@@ -504,7 +441,6 @@
     "description": "necessitatibus molestiae quam eveniet et et quia nihil distinctio qui non placeat corporis unde dignissimos et sint itaque sit eum voluptates voluptatem atque veritatis est"
   },
   {
-    "id": 65,
     "tags": ["Ocean", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/64.jpg",
     "price": 13.99,
@@ -512,7 +448,6 @@
     "description": "laborum expedita esse aut aut culpa rerum dolorem odit culpa eligendi vitae deleniti soluta aut quas beatae maiores et"
   },
   {
-    "id": 66,
     "tags": ["Animal", "Wolf", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/65.jpg",
     "price": 19.99,
@@ -520,7 +455,6 @@
     "description": "debitis suscipit quis fuga animi consequatur temporibus non sit cumque iusto"
   },
   {
-    "id": 67,
     "tags": ["Forest", "Road", "Trees"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/66.jpg",
     "price": 17.99,
@@ -528,7 +462,6 @@
     "description": "ipsa sed et quia consequatur autem aut dolores assumenda distinctio consequatur omnis ut ex minima consequatur sed veritatis"
   },
   {
-    "id": 68,
     "tags": ["Sky", "Abstract", "Buildings"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/67.jpg",
     "price": 14.99,
@@ -536,7 +469,6 @@
     "description": "aperiam pariatur sit atque excepturi rerum hic omnis laborum ut illo doloremque quibusdam sequi aut minus hic placeat modi"
   },
   {
-    "id": 69,
     "tags": ["Snow", "Trees", "Macro"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/68.jpg",
     "price": 11.99,
@@ -544,7 +476,6 @@
     "description": "dolores esse est eos in sequi qui error fugit est laborum occaecati quidem culpa natus voluptatem asperiores"
   },
   {
-    "id": 70,
     "tags": ["Sand", "Desert"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/69.jpg",
     "price": 9.99,
@@ -552,7 +483,6 @@
     "description": "ea illo omnis sed ut voluptatem et et magni et sint ex distinctio"
   },
   {
-    "id": 71,
     "tags": ["Central Park", "City", "Buildings", "New York"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/70.jpg",
     "price": 15.99,
@@ -560,7 +490,6 @@
     "description": "necessitatibus repudiandae delectus aut assumenda porro harum eos voluptas quos odio doloremque exercitationem qui incidunt numquam velit tempore aut eos nulla"
   },
   {
-    "id": 72,
     "tags": ["Trees", "Meadow", "Flowers"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/71.jpg",
     "price": 18.99,
@@ -568,7 +497,6 @@
     "description": "velit ut quo autem repellat libero incidunt est animi qui sunt eum consequuntur soluta natus eveniet aspernatur est molestiae iure"
   },
   {
-    "id": 73,
     "tags": ["Sunset"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/72.jpg",
     "price": 12.99,
@@ -576,7 +504,6 @@
     "description": "dolorem blanditiis quas quaerat aliquam nostrum nostrum qui sint sit ut molestias quo beatae aut dolore"
   },
   {
-    "id": 74,
     "tags": ["Sunset", "Ocean", "Rocks"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/73.jpg",
     "price": 16.99,
@@ -584,7 +511,6 @@
     "description": "nobis et amet maxime qui neque reprehenderit accusamus similique sed quia debitis quia odio assumenda nulla necessitatibus cum qui enim"
   },
   {
-    "id": 75,
     "tags": ["Trees", "Sunrise", "Meadow"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/74.jpg",
     "price": 16.99,
@@ -592,7 +518,6 @@
     "description": "in corrupti quasi ducimus inventore aut repellat praesentium debitis qui amet itaque quasi quisquam"
   },
   {
-    "id": 76,
     "tags": ["Forest", "Trees", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/75.jpg",
     "price": 20.99,
@@ -600,7 +525,6 @@
     "description": "consequatur enim alias voluptatem et et omnis sunt qui et rerum qui quae voluptates cum"
   },
   {
-    "id": 77,
     "tags": ["Pool", "Person", "Water", "Swimming"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/76.jpg",
     "price": 9.99,
@@ -608,7 +532,6 @@
     "description": "voluptate ducimus est praesentium perspiciatis et non id ipsa totam"
   },
   {
-    "id": 78,
     "tags": ["Green beans", "Vegetables", "Food"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/77.jpg",
     "price": 14.99,
@@ -616,7 +539,6 @@
     "description": "id nihil maiores doloremque expedita alias enim laudantium odio ad maiores nulla earum aut"
   },
   {
-    "id": 79,
     "tags": ["Mountains", "Water", "Clouds"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/78.jpg",
     "price": 15.99,
@@ -624,7 +546,6 @@
     "description": "autem aut atque inventore rerum est soluta maxime unde occaecati ut omnis corporis enim animi qui"
   },
   {
-    "id": 80,
     "tags": ["Station", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/79.jpg",
     "price": 16.99,
@@ -632,7 +553,6 @@
     "description": "velit aut nulla explicabo magnam quis reiciendis incidunt minima et aut provident quod nostrum"
   },
   {
-    "id": 81,
     "tags": ["Buildings", "Architecture"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/80.jpg",
     "price": 20.99,
@@ -640,7 +560,6 @@
     "description": "eos qui reprehenderit sed voluptatem et neque saepe commodi rem et praesentium distinctio atque dignissimos quas eos doloribus veritatis est in consequatur nostrum"
   },
   {
-    "id": 82,
     "tags": ["City", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/81.jpg",
     "price": 20.99,
@@ -648,7 +567,6 @@
     "description": "quas neque quia ut facilis deleniti qui minus iure velit non veritatis nemo amet nobis dolorem"
   },
   {
-    "id": 83,
     "tags": ["Sunset", "Fog", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/82.jpg",
     "price": 13.99,
@@ -656,7 +574,6 @@
     "description": "aliquid libero laudantium aut officiis id voluptatem beatae molestiae aspernatur quisquam doloribus eum pariatur et"
   },
   {
-    "id": 84,
     "tags": ["Flower", "Plants"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/83.jpg",
     "price": 19.99,
@@ -664,7 +581,6 @@
     "description": "optio nesciunt id deserunt autem veniam est explicabo facere voluptas omnis illo necessitatibus nihil"
   },
   {
-    "id": 85,
     "tags": ["Sunset", "Hands", "Phone"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/84.jpg",
     "price": 12.99,
@@ -672,7 +588,6 @@
     "description": "aliquid officia est quis illum aspernatur quae provident ut velit quia nihil consequuntur perspiciatis provident voluptas"
   },
   {
-    "id": 86,
     "tags": ["Sunset", "Airplane", "Clouds"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/85.jpg",
     "price": 15.99,
@@ -680,7 +595,6 @@
     "description": "amet vitae labore minima dolore sed maxime quisquam voluptatem deserunt sed eveniet"
   },
   {
-    "id": 87,
     "tags": ["Animal", "Deer"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/86.jpg",
     "price": 19.99,
@@ -688,7 +602,6 @@
     "description": "distinctio nostrum quia sit illum ipsa quidem non et totam voluptate sit quidem tempora voluptas non possimus et tenetur enim dolorem quod"
   },
   {
-    "id": 88,
     "tags": ["Animal", "Bird"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/87.jpg",
     "price": 12.99,
@@ -696,7 +609,6 @@
     "description": "nam reiciendis explicabo ut illo sequi velit beatae doloribus maxime consequatur debitis consequatur fugiat natus est quisquam"
   },
   {
-    "id": 89,
     "tags": ["Sunset", "Train", "Railroad", "Freeway"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/88.jpg",
     "price": 9.99,
@@ -704,7 +616,6 @@
     "description": "laboriosam ut et tempore unde esse consequatur architecto corporis quaerat et ad eum et possimus at dolores placeat recusandae ut laborum soluta"
   },
   {
-    "id": 90,
     "tags": ["House", "Pool"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/89.jpg",
     "price": 11.99,
@@ -712,7 +623,6 @@
     "description": "rerum tempora veritatis harum voluptas dignissimos minus voluptates eum labore in ipsum odio"
   },
   {
-    "id": 91,
     "tags": ["Architecture", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/90.jpg",
     "price": 14.99,
@@ -720,7 +630,6 @@
     "description": "quos dolor alias ipsum asperiores et tenetur voluptatum ipsum similique"
   },
   {
-    "id": 92,
     "tags": ["Space", "NASA"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/91.jpg",
     "price": 16.99,
@@ -728,7 +637,6 @@
     "description": "et ratione illum fugiat sapiente voluptatibus sapiente velit voluptatem debitis eos rerum ea tempore culpa nihil consectetur nobis sapiente quae quo est consequatur"
   },
   {
-    "id": 93,
     "tags": ["Animal", "Mountains", "Lake"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/92.jpg",
     "price": 18.99,
@@ -736,7 +644,6 @@
     "description": "atque fugiat aut laboriosam dolor error dignissimos neque voluptates occaecati cumque perspiciatis sint odio dicta repudiandae et fuga porro"
   },
   {
-    "id": 94,
     "tags": ["Animal", "Bird", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/93.jpg",
     "price": 10.99,
@@ -744,7 +651,6 @@
     "description": "dolor eveniet rerum ut enim aliquid hic nostrum mollitia laboriosam eum rerum quis voluptate"
   },
   {
-    "id": 95,
     "tags": ["Winter", "Snow", "Trees", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/94.jpg",
     "price": 17.99,
@@ -752,7 +658,6 @@
     "description": "fugiat vero qui nobis id excepturi tempora quis dolor voluptates voluptas similique distinctio optio ad id ab vero voluptatem"
   },
   {
-    "id": 96,
     "tags": ["Sky", "Mountains", "Rocks"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/95.jpg",
     "price": 15.99,
@@ -760,7 +665,6 @@
     "description": "similique ea beatae fuga enim velit inventore hic nulla ullam velit non consequatur consequatur illo provident"
   },
   {
-    "id": 97,
     "tags": ["Statue of liberty", "Architecture", "Monument"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/96.jpg",
     "price": 20.99,
@@ -768,7 +672,6 @@
     "description": "et odit hic blanditiis ipsa ullam quo debitis amet non facere eos maiores qui sit facilis est nihil in facere sed velit"
   },
   {
-    "id": 98,
     "tags": ["Rust", "Car"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/97.jpg",
     "price": 16.99,
@@ -776,7 +679,6 @@
     "description": "soluta enim molestiae aut et reprehenderit illo expedita neque eligendi consequatur illo mollitia"
   },
   {
-    "id": 99,
     "tags": ["Married", "Wedding", "Bride"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/98.jpg",
     "price": 16.99,
@@ -784,7 +686,6 @@
     "description": "quaerat minima maxime ut quo ipsam facere recusandae numquam ipsum qui ut esse quod pariatur alias"
   },
   {
-    "id": 100,
     "tags": ["Plants", "Cactus"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/99.jpg",
     "price": 17.99,
@@ -792,7 +693,6 @@
     "description": "dignissimos nesciunt odio doloremque vel ut id consequatur eligendi dolorem blanditiis"
   },
   {
-    "id": 101,
     "tags": ["Ocean", "Dock"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/100.jpg",
     "price": 15.99,
@@ -800,7 +700,6 @@
     "description": "minima et ipsum explicabo ut veniam tenetur nesciunt velit recusandae suscipit animi facere voluptatem optio nesciunt"
   },
   {
-    "id": 102,
     "tags": ["Nature", "Mountains", "Meadow"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/101.jpg",
     "price": 17.99,
@@ -808,7 +707,6 @@
     "description": "est quia expedita velit quibusdam est nam excepturi officiis quas"
   },
   {
-    "id": 103,
     "tags": ["Northern lights", "Snow", "Night"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/102.jpg",
     "price": 18.99,
@@ -816,7 +714,6 @@
     "description": "quo dolores quo libero dolores maiores sed sed libero ut animi voluptatem fuga accusamus cum"
   },
   {
-    "id": 104,
     "tags": ["Sunset", "Field", "Person"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/103.jpg",
     "price": 19.99,
@@ -824,7 +721,6 @@
     "description": "quidem officiis voluptas omnis accusantium consectetur assumenda at ut occaecati blanditiis possimus id"
   },
   {
-    "id": 105,
     "tags": ["Fog", "Mountains", "Lake"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/104.jpg",
     "price": 17.99,
@@ -832,7 +728,6 @@
     "description": "beatae autem ex nulla nisi occaecati quis et minus commodi omnis tempore illo deleniti"
   },
   {
-    "id": 106,
     "tags": ["Clothing", "Person"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/105.jpg",
     "price": 17.99,
@@ -840,7 +735,6 @@
     "description": "rerum soluta voluptatem facere cum sit est et quas dolores illo quia dolores"
   },
   {
-    "id": 107,
     "tags": ["Hands", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/106.jpg",
     "price": 10.99,
@@ -848,7 +742,6 @@
     "description": "ratione qui id ut excepturi eaque maiores qui aperiam et quis voluptatum aut impedit ducimus provident voluptate quia"
   },
   {
-    "id": 108,
     "tags": ["Trees", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/107.jpg",
     "price": 19.99,
@@ -856,7 +749,6 @@
     "description": "consequatur ipsam id perferendis praesentium quia quod blanditiis facere animi dolorum tempora quidem sint voluptatum exercitationem modi qui exercitationem esse sunt"
   },
   {
-    "id": 109,
     "tags": ["Snow", "Trees", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/108.jpg",
     "price": 19.99,
@@ -864,7 +756,6 @@
     "description": "neque corporis quidem qui iste delectus sunt et ipsa vero iste dolores quibusdam non id recusandae molestiae consequatur voluptas eligendi et eius rerum eius commodi"
   },
   {
-    "id": 110,
     "tags": ["Trees", "Mountains", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/109.jpg",
     "price": 11.99,
@@ -872,7 +763,6 @@
     "description": "voluptates dicta vel praesentium fuga dolores ratione rerum maiores sapiente tempora dolor et asperiores porro harum ratione quia exercitationem aut quas aut"
   },
   {
-    "id": 111,
     "tags": ["Plant", "Flower", "Macro"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/110.jpg",
     "price": 12.99,
@@ -880,7 +770,6 @@
     "description": "rerum fuga magnam alias eveniet non velit nesciunt vitae placeat dolores delectus itaque modi ipsa magnam cum"
   },
   {
-    "id": 112,
     "tags": ["Person", "Woman", "Desert"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/111.jpg",
     "price": 10.99,
@@ -888,7 +777,6 @@
     "description": "doloremque architecto ducimus sit nemo voluptatem dolor vel ratione sed quis nostrum et voluptatem quisquam nihil labore recusandae quas nisi rem sit"
   },
   {
-    "id": 113,
     "tags": ["Mountain", "Sunset", "Forrest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/112.jpg",
     "price": 13.99,
@@ -896,7 +784,6 @@
     "description": "totam quis deserunt dicta recusandae fugiat sapiente voluptatem est quidem ut in nulla sunt officiis"
   },
   {
-    "id": 114,
     "tags": ["Jelly fish", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/113.jpg",
     "price": 16.99,
@@ -904,7 +791,6 @@
     "description": "quis consectetur tenetur et non illo aut consequatur rerum maiores quasi iusto qui occaecati amet rerum culpa vel earum quasi dolor accusamus"
   },
   {
-    "id": 115,
     "tags": ["Flora", "Flowers"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/114.jpg",
     "price": 20.99,
@@ -912,7 +798,6 @@
     "description": "iure sint porro dolores enim ipsam aliquam quam expedita harum culpa totam et tempora et quae vitae rerum dolorum quo quo tempore"
   },
   {
-    "id": 116,
     "tags": ["City", "Buildings"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/115.jpg",
     "price": 19.99,
@@ -920,7 +805,6 @@
     "description": "accusantium sequi sed consequatur id optio vitae aut ullam voluptatum temporibus cupiditate alias numquam explicabo sit doloribus ut consequatur ab illum et maxime et"
   },
   {
-    "id": 117,
     "tags": ["Sunset", "Ocean", "Rocks"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/116.jpg",
     "price": 15.99,
@@ -928,7 +812,6 @@
     "description": "quis explicabo fuga minus et voluptate ut dolorum facilis cupiditate aperiam earum unde"
   },
   {
-    "id": 118,
     "tags": ["Ocean", "Plants"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/117.jpg",
     "price": 14.99,
@@ -936,7 +819,6 @@
     "description": "porro provident pariatur autem non deserunt quia consequatur voluptatibus ut quia et"
   },
   {
-    "id": 119,
     "tags": ["Trees", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/118.jpg",
     "price": 19.99,
@@ -944,7 +826,6 @@
     "description": "qui voluptatem harum enim veniam quod corporis id quisquam doloribus repellat odit ipsum veritatis aut blanditiis rerum fugiat et ea soluta laborum in"
   },
   {
-    "id": 120,
     "tags": ["Fog", "Stairs"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/119.jpg",
     "price": 15.99,
@@ -952,7 +833,6 @@
     "description": "eum excepturi sed explicabo necessitatibus sequi ab odio minus ratione harum ut praesentium tempore recusandae"
   },
   {
-    "id": 121,
     "tags": ["Person", "Stars", "Space"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/120.jpg",
     "price": 20.99,
@@ -960,7 +840,6 @@
     "description": "et sit consequatur unde ut sunt autem neque necessitatibus et id aut id occaecati est a esse doloribus debitis consequuntur excepturi enim velit tenetur"
   },
   {
-    "id": 122,
     "tags": ["Trees", "Sunrise", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/121.jpg",
     "price": 14.99,
@@ -968,7 +847,6 @@
     "description": "numquam distinctio fugiat nam est possimus velit est quam dolores quibusdam esse autem qui temporibus mollitia architecto nisi vel est et veniam et"
   },
   {
-    "id": 123,
     "tags": ["Snow", "Nature", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/122.jpg",
     "price": 18.99,
@@ -976,7 +854,6 @@
     "description": "id eius nostrum accusamus optio itaque ut quisquam delectus ut voluptatem accusamus aperiam"
   },
   {
-    "id": 124,
     "tags": ["Abstract", "Fabric", "Antler"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/123.jpg",
     "price": 16.99,
@@ -984,7 +861,6 @@
     "description": "aut temporibus dolorem rem alias optio nobis aut hic quasi rerum dolore sunt debitis"
   },
   {
-    "id": 125,
     "tags": ["Mountain", "Snow"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/124.jpg",
     "price": 20.99,
@@ -992,7 +868,6 @@
     "description": "quod quia sed autem molestias et sapiente nobis quidem cumque laborum sint corporis ratione"
   },
   {
-    "id": 126,
     "tags": ["City", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/125.jpg",
     "price": 18.99,
@@ -1000,7 +875,6 @@
     "description": "voluptas dicta sit in tempore enim voluptas asperiores autem temporibus voluptas est porro omnis dicta ad est et cupiditate harum optio"
   },
   {
-    "id": 127,
     "tags": ["Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/126.jpg",
     "price": 10.99,
@@ -1008,7 +882,6 @@
     "description": "in est dolorem qui qui velit fuga hic veniam recusandae delectus ullam nesciunt voluptates distinctio recusandae"
   },
   {
-    "id": 128,
     "tags": ["Sky", "Clouds"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/127.jpg",
     "price": 16.99,
@@ -1016,7 +889,6 @@
     "description": "nihil commodi delectus vitae eius distinctio velit et laudantium eos consectetur commodi nisi eveniet"
   },
   {
-    "id": 129,
     "tags": ["Mountain", "Trees", "Mist", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/128.jpg",
     "price": 13.99,
@@ -1024,7 +896,6 @@
     "description": "qui dolores voluptatem autem atque magnam qui vel ut quo harum labore exercitationem dolorem dolore numquam ut aut voluptas"
   },
   {
-    "id": 130,
     "tags": ["Dog", "Animal"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/129.jpg",
     "price": 17.99,
@@ -1032,7 +903,6 @@
     "description": "at doloremque natus similique quo labore quisquam laudantium placeat quasi vero cumque sit dolores quis eos dolor sint neque dolores voluptatem qui et sed vero"
   },
   {
-    "id": 131,
     "tags": ["Trees", "Road", "Trail"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/130.jpg",
     "price": 16.99,
@@ -1040,7 +910,6 @@
     "description": "officia deserunt necessitatibus dignissimos aliquam perferendis quis sunt dicta quod rem recusandae aut eaque nulla maiores quisquam et excepturi voluptate consequatur deserunt impedit adipisci ducimus"
   },
   {
-    "id": 132,
     "tags": ["Cup", "Bed"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/131.jpg",
     "price": 14.99,
@@ -1048,7 +917,6 @@
     "description": "minima distinctio non illo vel necessitatibus totam esse est fugiat tempora quia qui et sit assumenda et ipsum consequatur"
   },
   {
-    "id": 133,
     "tags": ["Dock", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/132.jpg",
     "price": 11.99,
@@ -1056,7 +924,6 @@
     "description": "blanditiis voluptatem aliquam fugit aut voluptates ducimus molestias sit sapiente omnis"
   },
   {
-    "id": 134,
     "tags": ["Road"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/133.jpg",
     "price": 11.99,
@@ -1064,7 +931,6 @@
     "description": "reprehenderit velit odit corrupti alias dolore esse qui et reiciendis"
   },
   {
-    "id": 135,
     "tags": ["Trees", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/134.jpg",
     "price": 11.99,
@@ -1072,7 +938,6 @@
     "description": "culpa dignissimos sit iste sed et quis vitae facere sunt aliquid voluptatem voluptatem est eos aperiam adipisci modi ut vitae explicabo veniam"
   },
   {
-    "id": 136,
     "tags": ["Arial", "Farms"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/135.jpg",
     "price": 14.99,
@@ -1080,7 +945,6 @@
     "description": "excepturi qui est officia consequatur sunt eos dolore est occaecati officiis corporis hic sapiente reprehenderit eaque consequatur qui doloribus omnis quo provident aperiam officia"
   },
   {
-    "id": 137,
     "tags": ["Cliff", "Lighthouse", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/136.jpg",
     "price": 19.99,
@@ -1088,7 +952,6 @@
     "description": "debitis et ut non repudiandae voluptas reiciendis labore natus non ut cumque et dolores temporibus blanditiis natus et quis veniam quo"
   },
   {
-    "id": 138,
     "tags": ["Bridge", "Night"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/137.jpg",
     "price": 10.99,
@@ -1096,7 +959,6 @@
     "description": "dolorum cumque vel at vel nam id enim repellat consequatur aut et fuga"
   },
   {
-    "id": 139,
     "tags": ["Sunset", "City", "Building"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/138.jpg",
     "price": 19.99,
@@ -1104,7 +966,6 @@
     "description": "veritatis asperiores et aut voluptatibus eveniet maxime voluptatem ea dolores laborum aut qui ut ullam quaerat repellat"
   },
   {
-    "id": 140,
     "tags": ["Beach", "Grass", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/139.jpg",
     "price": 11.99,
@@ -1112,7 +973,6 @@
     "description": "et enim est esse fugiat et totam vero dolores rem debitis qui commodi et doloremque vel quaerat sequi atque"
   },
   {
-    "id": 141,
     "tags": ["Plant", "Table", "Blue"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/140.jpg",
     "price": 13.99,
@@ -1120,7 +980,6 @@
     "description": "amet asperiores minus inventore voluptas harum laudantium qui ullam eligendi ab fuga neque asperiores vel vel impedit quaerat aliquid nulla quod"
   },
   {
-    "id": 142,
     "tags": ["Valley", "Fog", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/141.jpg",
     "price": 20.99,
@@ -1128,7 +987,6 @@
     "description": "aliquam blanditiis illum illum voluptate ut nemo ullam praesentium voluptatum et fugit maiores doloremque quidem assumenda"
   },
   {
-    "id": 143,
     "tags": ["Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/142.jpg",
     "price": 17.99,
@@ -1136,7 +994,6 @@
     "description": "reprehenderit aliquid ipsum et aliquid ut vero et porro a odio quidem nam ipsum et dignissimos vel quo ipsam et consequatur nisi eaque explicabo"
   },
   {
-    "id": 144,
     "tags": ["Sunset", "Lights", "City", "Buildings", "River"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/143.jpg",
     "price": 20.99,
@@ -1144,7 +1001,6 @@
     "description": "nemo et praesentium hic sit perspiciatis autem fuga laborum ratione saepe autem voluptatem aut enim nihil est"
   },
   {
-    "id": 145,
     "tags": ["Person", "Classic", "Car"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/144.jpg",
     "price": 18.99,
@@ -1152,7 +1008,6 @@
     "description": "commodi quo exercitationem sed at assumenda dignissimos autem et odit animi architecto necessitatibus incidunt quo"
   },
   {
-    "id": 146,
     "tags": ["Fog", "Ocean", "Rocks"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/145.jpg",
     "price": 9.99,
@@ -1160,7 +1015,6 @@
     "description": "pariatur animi velit sed nam qui voluptatum pariatur qui assumenda eos"
   },
   {
-    "id": 147,
     "tags": ["Trees", "Meadow", "Plants"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/146.jpg",
     "price": 10.99,
@@ -1168,7 +1022,6 @@
     "description": "itaque rerum facere consequuntur rem architecto doloremque quasi quam consequuntur aut dolore sint sit ut"
   },
   {
-    "id": 148,
     "tags": ["Beach", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/147.jpg",
     "price": 17.99,
@@ -1176,7 +1029,6 @@
     "description": "aut rerum consequatur vitae quidem rerum earum est magni officiis consectetur qui doloremque qui placeat dolore inventore voluptas enim ex ratione"
   },
   {
-    "id": 149,
     "tags": ["Sunset", "City", "Buildings", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/148.jpg",
     "price": 17.99,
@@ -1184,7 +1036,6 @@
     "description": "facere sint ut aut est non et libero omnis nam nisi nihil libero voluptatem in rem et dolorem sunt quisquam saepe repellendus"
   },
   {
-    "id": 150,
     "tags": ["Chairs", "Office", "Table"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/149.jpg",
     "price": 12.99,
@@ -1192,7 +1043,6 @@
     "description": "labore deleniti sapiente perspiciatis ut assumenda neque ad officiis est suscipit quaerat voluptas magnam delectus reprehenderit nisi nam voluptatibus aperiam"
   },
   {
-    "id": 151,
     "tags": ["Snow", "Alaska"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/150.jpg",
     "price": 19.99,
@@ -1200,7 +1050,6 @@
     "description": "dolorem voluptatem voluptatem aut et eveniet voluptatem aperiam id in laboriosam voluptatem eveniet a aliquid voluptatem officia earum necessitatibus qui eligendi aut consequuntur error"
   },
   {
-    "id": 152,
     "tags": ["Beach", "Nature", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/151.jpg",
     "price": 18.99,
@@ -1208,7 +1057,6 @@
     "description": "qui inventore error ad eveniet quisquam non non nesciunt exercitationem dolore sit voluptate nihil"
   },
   {
-    "id": 153,
     "tags": ["Brick"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/152.jpg",
     "price": 18.99,
@@ -1216,7 +1064,6 @@
     "description": "et doloremque quia voluptas reiciendis rerum quasi ullam odit ex velit a in modi quisquam sed repellendus enim veritatis beatae commodi ut"
   },
   {
-    "id": 154,
     "tags": ["Coffee"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/153.jpg",
     "price": 20.99,
@@ -1224,7 +1071,6 @@
     "description": "ipsum consectetur ad optio sunt sit laborum sed aut labore consequatur sed quia et vitae"
   },
   {
-    "id": 155,
     "tags": ["Glass", "Architecture", "Ceiling"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/154.jpg",
     "price": 9.99,
@@ -1232,7 +1078,6 @@
     "description": "eius qui tempora assumenda ut id qui voluptas aspernatur et voluptatem veniam"
   },
   {
-    "id": 156,
     "tags": ["River", "Snow", "Person", "Valley"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/155.jpg",
     "price": 12.99,
@@ -1240,7 +1085,6 @@
     "description": "laborum nihil non ut dolorum fugiat atque aperiam sit a quis eaque dolores nihil ipsa ex excepturi et omnis et dolor et"
   },
   {
-    "id": 157,
     "tags": ["Arial", "Trees"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/156.jpg",
     "price": 10.99,
@@ -1248,7 +1092,6 @@
     "description": "aliquid voluptatem et enim voluptas non mollitia provident non quam repellat occaecati eaque doloribus et magnam sit aperiam ut"
   },
   {
-    "id": 158,
     "tags": ["City", "Buildings", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/157.jpg",
     "price": 20.99,
@@ -1256,7 +1099,6 @@
     "description": "tempora eligendi nihil quasi velit dolorem et deleniti alias et quae reiciendis dolorem qui ex earum et autem"
   },
   {
-    "id": 159,
     "tags": ["Snow", "Trees", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/158.jpg",
     "price": 13.99,
@@ -1264,7 +1106,6 @@
     "description": "non sed excepturi culpa aut sit dolor qui reiciendis perspiciatis"
   },
   {
-    "id": 160,
     "tags": ["Statue of libery", "Monument"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/159.jpg",
     "price": 11.99,
@@ -1272,7 +1113,6 @@
     "description": "vero dolor sed culpa molestias repellat quo provident expedita totam eos est quis laudantium expedita nobis quis"
   },
   {
-    "id": 161,
     "tags": ["Trees", "Fog", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/160.jpg",
     "price": 13.99,
@@ -1280,7 +1120,6 @@
     "description": "consectetur at quis et quam vel cumque blanditiis quis rerum sit rerum corrupti voluptas qui itaque reprehenderit voluptatem nostrum voluptatem at"
   },
   {
-    "id": 162,
     "tags": ["Sky", "Island", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/161.jpg",
     "price": 13.99,
@@ -1288,7 +1127,6 @@
     "description": "repudiandae magni qui esse labore magni maiores unde ullam itaque maxime aut"
   },
   {
-    "id": 163,
     "tags": ["Flora", "Nature", "Plants"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/162.jpg",
     "price": 10.99,
@@ -1296,7 +1134,6 @@
     "description": "sit tenetur praesentium nam nostrum cum tempora maiores amet eveniet ex aliquid nobis repudiandae maxime illum voluptatum quo vero quia quidem laboriosam unde"
   },
   {
-    "id": 164,
     "tags": ["Animal", "Bear"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/163.jpg",
     "price": 20.99,
@@ -1304,7 +1141,6 @@
     "description": "reiciendis quaerat possimus cumque praesentium laboriosam animi natus molestiae quo aut qui eligendi quaerat quo qui et sed ducimus est inventore ut"
   },
   {
-    "id": 165,
     "tags": ["Sunset", "City"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/164.jpg",
     "price": 20.99,
@@ -1312,7 +1148,6 @@
     "description": "commodi sequi quia tempore consequatur tempora ut fugit reprehenderit reiciendis quia ullam qui"
   },
   {
-    "id": 166,
     "tags": ["Nature", "Mountains", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/165.jpg",
     "price": 10.99,
@@ -1320,7 +1155,6 @@
     "description": "sint odio optio illum eos et est dolores perspiciatis velit sapiente ut reprehenderit quia ullam quas eaque dolores quo enim hic reprehenderit"
   },
   {
-    "id": 167,
     "tags": ["Baby", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/166.jpg",
     "price": 12.99,
@@ -1328,7 +1162,6 @@
     "description": "enim perferendis placeat aut dicta et explicabo eligendi laudantium earum non quia error nostrum libero quas cupiditate voluptatem velit"
   },
   {
-    "id": 168,
     "tags": ["Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/167.jpg",
     "price": 16.99,
@@ -1336,7 +1169,6 @@
     "description": "doloribus distinctio aut culpa quas ut exercitationem aut dignissimos voluptas sit soluta magnam"
   },
   {
-    "id": 169,
     "tags": ["City", "Buildings", "Architecture"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/168.jpg",
     "price": 11.99,
@@ -1344,7 +1176,6 @@
     "description": "dolorem corrupti vel quis eveniet et unde non quos adipisci id voluptate"
   },
   {
-    "id": 170,
     "tags": ["Snow", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/169.jpg",
     "price": 14.99,
@@ -1352,7 +1183,6 @@
     "description": "magni libero ut et dolore qui aut eveniet a ut provident ut qui omnis cupiditate esse"
   },
   {
-    "id": 171,
     "tags": ["Person", "Rain"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/170.jpg",
     "price": 11.99,
@@ -1360,7 +1190,6 @@
     "description": "adipisci quia in odit repellat cupiditate aut unde facilis dolorem accusantium laborum sit optio laboriosam facere"
   },
   {
-    "id": 172,
     "tags": ["Boats", "Food", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/171.jpg",
     "price": 16.99,
@@ -1368,7 +1197,6 @@
     "description": "repudiandae cumque voluptatibus eum laudantium reprehenderit magni quidem dolorum culpa nobis"
   },
   {
-    "id": 173,
     "tags": ["Desk", "Office", "Laptop"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/172.jpg",
     "price": 11.99,
@@ -1376,7 +1204,6 @@
     "description": "accusantium qui rerum qui vel qui ut vitae veniam rerum"
   },
   {
-    "id": 174,
     "tags": ["Sunset", "Meadow", "Wood"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/173.jpg",
     "price": 14.99,
@@ -1384,7 +1211,6 @@
     "description": "amet fuga eius mollitia natus quos velit aliquam quia laboriosam"
   },
   {
-    "id": 175,
     "tags": ["Lake", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/174.jpg",
     "price": 9.99,
@@ -1392,7 +1218,6 @@
     "description": "dolore magni deserunt cumque non qui qui consequatur quia et totam temporibus sunt et at quia beatae doloribus placeat est libero"
   },
   {
-    "id": 176,
     "tags": ["Person", "Beach", "Fish"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/175.jpg",
     "price": 14.99,
@@ -1400,7 +1225,6 @@
     "description": "quo delectus quisquam fuga occaecati assumenda libero ipsam tempora totam minus id maxime similique debitis dicta non ea ad sed"
   },
   {
-    "id": 177,
     "tags": ["Trees", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/176.jpg",
     "price": 13.99,
@@ -1408,7 +1232,6 @@
     "description": "sint animi aut itaque ut voluptatibus inventore quia magni sint est facere excepturi corporis sit sed autem assumenda unde blanditiis id illo ea vero"
   },
   {
-    "id": 178,
     "tags": ["Beach", "Ocean", "Pier", "Dock"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/177.jpg",
     "price": 18.99,
@@ -1416,7 +1239,6 @@
     "description": "quis incidunt facilis optio laborum laboriosam et eius dolorem commodi nihil amet"
   },
   {
-    "id": 179,
     "tags": ["Space", "NASA"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/178.jpg",
     "price": 14.99,
@@ -1424,7 +1246,6 @@
     "description": "culpa id culpa rerum nostrum odio nemo id tempora aut quo sed veritatis eveniet eligendi"
   },
   {
-    "id": 180,
     "tags": ["Beach", "Ocean", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/179.jpg",
     "price": 16.99,
@@ -1432,7 +1253,6 @@
     "description": "qui aut id dolor fugiat blanditiis qui occaecati unde rerum inventore corporis error nulla ut provident dolores animi"
   },
   {
-    "id": 181,
     "tags": ["Beach", "Nature", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/180.jpg",
     "price": 11.99,
@@ -1440,7 +1260,6 @@
     "description": "iure et dicta nisi accusantium qui sed veritatis quia molestiae doloribus accusantium sed nostrum aliquam cumque quia porro non earum dolorum sequi quia assumenda libero"
   },
   {
-    "id": 182,
     "tags": ["Pool", "Night", "Ocean", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/181.jpg",
     "price": 9.99,
@@ -1448,7 +1267,6 @@
     "description": "ipsam ducimus velit tempore vitae enim voluptatem rem doloribus laboriosam quo quaerat"
   },
   {
-    "id": 183,
     "tags": ["Trees", "Car", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/182.jpg",
     "price": 9.99,
@@ -1456,7 +1274,6 @@
     "description": "dignissimos ut quae molestiae saepe nihil quod et odio corporis unde veritatis nemo molestiae quibusdam laudantium quia eos perferendis"
   },
   {
-    "id": 184,
     "tags": ["Bus", "Transit", "People"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/183.jpg",
     "price": 14.99,
@@ -1464,7 +1281,6 @@
     "description": "cum et officia corrupti sequi perspiciatis maiores quo fugit nam pariatur sunt assumenda doloribus qui consequatur modi nemo voluptates magnam nisi"
   },
   {
-    "id": 185,
     "tags": ["Arial", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/184.jpg",
     "price": 18.99,
@@ -1472,7 +1288,6 @@
     "description": "dolorem consequuntur quisquam sequi quia vitae impedit quaerat similique sequi porro impedit nihil vitae vel natus non"
   },
   {
-    "id": 186,
     "tags": ["Trees", "Beach"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/185.jpg",
     "price": 16.99,
@@ -1480,7 +1295,6 @@
     "description": "est aliquid et autem quasi reiciendis sint illo aut accusantium dolorem et corrupti corrupti aperiam qui consequatur cumque dolore commodi ipsam molestiae neque"
   },
   {
-    "id": 187,
     "tags": ["Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/186.jpg",
     "price": 11.99,
@@ -1488,7 +1302,6 @@
     "description": "aut ea alias corrupti maxime minima officia beatae veritatis quis commodi iste adipisci voluptatem neque aut consectetur deleniti"
   },
   {
-    "id": 188,
     "tags": ["Utah", "Sand", "Desert"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/187.jpg",
     "price": 14.99,
@@ -1496,7 +1309,6 @@
     "description": "enim deserunt ut esse aut molestiae quibusdam incidunt aut voluptates voluptatem corporis vel ut quo exercitationem consequatur sunt voluptatem qui quibusdam consequatur"
   },
   {
-    "id": 189,
     "tags": ["Person", "Bicycle"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/188.jpg",
     "price": 12.99,
@@ -1504,7 +1316,6 @@
     "description": "a ratione aut sed similique excepturi blanditiis provident ullam quaerat occaecati nulla ad rerum quo aperiam est doloribus reprehenderit accusamus"
   },
   {
-    "id": 190,
     "tags": ["Hands", "Tea"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/189.jpg",
     "price": 20.99,
@@ -1512,7 +1323,6 @@
     "description": "repellat beatae adipisci aperiam quae esse alias voluptates quibusdam rerum quis optio aliquid esse est rerum est eos ea corporis"
   },
   {
-    "id": 191,
     "tags": ["Ocean", "Water"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/190.jpg",
     "price": 14.99,
@@ -1520,7 +1330,6 @@
     "description": "neque vel cum laborum repudiandae aspernatur similique laudantium beatae reiciendis quo reprehenderit qui"
   },
   {
-    "id": 192,
     "tags": ["Lake", "Fog"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/191.jpg",
     "price": 16.99,
@@ -1528,7 +1337,6 @@
     "description": "et assumenda blanditiis unde labore voluptas tenetur quod molestias et veritatis totam id consequuntur aliquam nostrum ea dolores amet sit quia ex quidem"
   },
   {
-    "id": 193,
     "tags": ["Trees", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/192.jpg",
     "price": 15.99,
@@ -1536,7 +1344,6 @@
     "description": "soluta consequatur ut error odit dolorem dolor eos hic libero qui et est itaque quam laudantium quo molestiae enim perferendis"
   },
   {
-    "id": 194,
     "tags": ["Trees", "Fog", "Forest"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/193.jpg",
     "price": 14.99,
@@ -1544,7 +1351,6 @@
     "description": "ut vero dicta accusamus velit beatae modi dolores qui et voluptate perspiciatis voluptas cum facere omnis eum perspiciatis eius ab voluptates"
   },
   {
-    "id": 195,
     "tags": ["Beach", "Ocean"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/194.jpg",
     "price": 12.99,
@@ -1552,7 +1358,6 @@
     "description": "dicta eum voluptates quisquam hic qui ad enim nihil nihil quia iure odit aut a"
   },
   {
-    "id": 196,
     "tags": ["Grass", "Flowers", "Plants"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/195.jpg",
     "price": 16.99,
@@ -1560,7 +1365,6 @@
     "description": "ea quis distinctio ea ratione esse et maxime consectetur eos neque error sint aspernatur facere ut necessitatibus nemo impedit rerum non velit"
   },
   {
-    "id": 197,
     "tags": ["City", "Buildings"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/196.jpg",
     "price": 15.99,
@@ -1568,7 +1372,6 @@
     "description": "reiciendis omnis ea quasi ab cum et enim dolorem quas facere corrupti"
   },
   {
-    "id": 198,
     "tags": ["Waterfall", "Fog", "Mountains"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/197.jpg",
     "price": 13.99,
@@ -1576,7 +1379,6 @@
     "description": "fuga ut consequatur inventore aut voluptatibus quia commodi velit nemo officiis"
   },
   {
-    "id": 199,
     "tags": ["Machine", "Antique", "Camera"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/198.jpg",
     "price": 15.99,
@@ -1584,7 +1386,6 @@
     "description": "numquam esse excepturi odit excepturi et maxime quia quia illum aperiam iure a ea et ut aperiam"
   },
   {
-    "id": 200,
     "tags": ["Person", "Guitar"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/199.jpg",
     "price": 19.99,
@@ -1592,7 +1393,6 @@
     "description": "nostrum error quod libero pariatur minus enim suscipit molestiae aliquid praesentium repudiandae repellendus voluptatum illum qui et sapiente voluptas"
   },
   {
-    "id": 201,
     "tags": ["City", "Buildings", "Architecture"],
     "imageUrl": "https://byui-cse.github.io/cse341-course/lesson03/images/200.jpg",
     "price": 17.99,
